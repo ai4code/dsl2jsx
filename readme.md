@@ -4,3 +4,7 @@
 > npm install
 
 > npm run test
+
+## 示例
+
+![avatar](/dsl2jsx/image/image.jpg)
