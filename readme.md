@@ -7,4 +7,4 @@
 
 ## 示例
 
-![avatar](/dsl2jsx/image/image.jpg)
+![avatar](https://github.com/ai4code/dsl2jsx/blob/master/image/image.jpg)
