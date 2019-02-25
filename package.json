@@ -1,0 +1,16 @@
+{
+  "name": "dsl2jsx",
+  "version": "1.0.0",
+  "description": "一款支持html转换jsx语法的工具库",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "ai4code",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "parse5": "^5.1.0",
+    "xmldom": "^0.1.27"
+  }
+}
